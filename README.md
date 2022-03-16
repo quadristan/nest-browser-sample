@@ -19,3 +19,10 @@ Then you can look browse `build/index.html`
 pnpm i
 pnpm analyze
 ```
+
+# Results
+
+| Bundle             | Size   |
+| ------------------ | ------ |
+| `vendor-nestjs.js` | 184 Ko |
+| `vendor-others.js` | 624 Ko |
