@@ -1,10 +1,12 @@
 # nest-browser-sample
 
-Sample experiment about using nestjs in web environment
+Sample experiments about using NestJs in a web environment:
+- Does it work outside NodeJS?
+- How big is the bundle?
 
-# How to build for fun ?
+# How to run the experiment yourself?
 
-Preferred way is to use `pnpm` ( install it with `npm install -g pnpm`) but it should work with `yarn`
+The preferred way is to use `pnpm` ( install it with `npm install -g pnpm`) but it should work with `yarn`
 
 ```bash
 pnpm i
